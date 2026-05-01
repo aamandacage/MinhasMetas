@@ -7,7 +7,7 @@ const goals = [
   {
     name: "Terminar meu Curso",
     targetDate: "2027-02-15T00:00:00",
-    image: "imagens/meta-2.webp"
+    image: "meta-2.webp"
   },
   {
     name: "Começar um Cursinho Preparatório",
