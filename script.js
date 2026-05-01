@@ -2,7 +2,7 @@ const goals = [
   {
     name: "Me formar no Ensino Médio",
     targetDate: "2026-12-20T00:00:00",
-    image: "imagens/meta-1.webp"
+    image: "meta-1.webp"
   },
   {
     name: "Terminar meu Curso",
@@ -12,12 +12,12 @@ const goals = [
   {
     name: "Começar um Cursinho Preparatório",
     targetDate: "2027-06-15T00:00:00",
-    image: "imagens/meta-3.webp"
+    image: "meta-3.webp"
   },
   {
     name: "Começar a Trabalhar Fora",
     targetDate: "2027-01-10T00:00:00",
-    image: "imagens/meta-4.webp"
+    image: "meta-4.webp"
   }
 ];
 
